@@ -21,25 +21,6 @@
 
 Have you ever worked in a repository with a lot of history? Perhaps you've had to track down related issues and pull requests in the past, or you've had to find who committed a particular change. If you've ever found yourself in any of these situations, you'll know how important it is to navigate your workspace.
 
-- **Who is this for**: Developers, GitHub users, users new to Git, students, managers, and teams.
-- **What you'll learn**:
-  - Find relevant issues and pull requests.
-  - Search history to find context.
-  - Make connections within GitHub to help others find things.
-- **What you'll build**: Repository with existing commits, duplicated issues, and a content defect to be fixed.
-- **Prerequisites**: Before you take this course, you may want to go through the [GitHub Quickstart](https://docs.github.com/en/get-started/quickstart) introduction on GitHub Docs and [Introduction to GitHub](https://github.com/skills/introduction-to-github) course on GitHub Skills.
-- **How long**: This course is three steps long and takes less than 15 min to complete.
-
-## How to start this course
-
-1. Right-click **Start course** and open the link in a new tab.
-   <br />[![start-course](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/skills/connect-the-dots/generate)
-2. In the new tab, follow the prompts to create a new repository.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   ![Create a new repository](https://user-images.githubusercontent.com/1221423/218594143-e60462b6-9f2a-4fa3-80de-063ac5429aab.png)
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
 </details>
 
 <!--
@@ -165,14 +146,6 @@ When you're looking at a commit on GitHub, you can see a lot of information. Fro
 
 In this course, you've learned a lot about finding and sharing information. Within a GitHub repository, you can find history about what changes were made, and more importantly, _why_ changes were made.
 
-### What's next?
-
-Check out these resources to learn more or get involved:
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
 </details>
 
 <!--
@@ -181,7 +154,5 @@ Check out these resources to learn more or get involved:
 -->
 
 ---
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
